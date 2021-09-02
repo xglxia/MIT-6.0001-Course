@@ -4,7 +4,7 @@ Created on Thu Jul 22 20:47:46 2021
 
 @author: Guoli
 
-Collabator: Joshua William Fleming
+Collaborator: Joshua William Fleming
 """
 #Assignment 1
 #Part C
